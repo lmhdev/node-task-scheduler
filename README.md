@@ -51,10 +51,6 @@ This Node.js application is a Task Scheduler that allows users to manage tasks, 
   - Authentication middleware with JWT verification.
   - Authorization middleware for role-based access control.
 
-- **Deployment**
-  - Instructions for setting up and deploying the application.
-  - Configuration files (`dotenv`) for environment variables.
-
 ## Technologies Used
 
 - Node.js
